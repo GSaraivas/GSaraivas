@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend em Formação`**
 
-Olá! Me chamo **Gabriel Saraiva**, tenho **21 anos** e estou em **transição de carreira para a área de Tecnologia da Informação**, com foco em **Desenvolvimento Frontend**.
+Olá! Me chamo **Gabriel Saraiva**, tenho **22 anos** e estou em **transição de carreira para a área de Tecnologia da Informação**, com foco em **Desenvolvimento Frontend**.
 
 Atualmente curso **Desenvolvimento Web Frontend**, onde venho aprimorando habilidades na criação de **interfaces modernas, responsivas e acessíveis**, sempre buscando boas práticas e uma ótima experiência do usuário.
 
