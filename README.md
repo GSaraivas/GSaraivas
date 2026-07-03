@@ -1,42 +1,112 @@
-# 👨🏾‍💻 Gabriel Saraiva
+# 👋 Olá, eu sou o Gabriel Saraiva
 
-**`Desenvolvedor Front-end`**
+```txt
+Frontend Developer · React · Next.js · TypeScript
+```
 
-Olá! Me chamo **Gabriel Saraiva**, tenho **22 anos** e estou em **transição de carreira para a área de Tecnologia da Informação**, com foco em **Desenvolvimento Frontend**.
+Desenvolvo interfaces modernas, acessíveis e de alta performance para produtos digitais e negócios locais, combinando **Product Design**, desenvolvimento front-end e foco em experiência do usuário.
 
-Atualmente curso **Desenvolvimento Web Frontend**, onde venho aprimorando habilidades na criação de **interfaces modernas, responsivas e acessíveis**, sempre buscando boas práticas e uma ótima experiência do usuário.
-
----
-
-## 🎨 Tecnologias Frontend
-
-<img align="left" alt="HTML" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<br/>
-<br/>
+Minha trajetória começou na área de logística e manutenção de equipamentos técnicos. Foi nesse ambiente que desenvolvi uma mentalidade voltada para resolução de problemas, precisão e melhoria contínua — princípios que hoje aplico no desenvolvimento de software.
 
 ---
 
-## 📚 Objetivos de Aprendizado
+## 🚀 Stack
 
-* Consolidar **lógica de programação** aplicada ao Frontend
-* Aplicar **boas práticas** de HTML semântico e CSS organizado
-* Criar interfaces **responsivas e acessíveis**
-* Desenvolver interações dinâmicas com **JavaScript**
-* Evoluir para o uso de **frameworks e bibliotecas Frontend**
+### Core
+
+`React` · `Next.js` · `TypeScript` · `JavaScript (ES6+)` · `Tailwind CSS`
+
+### UI & Motion
+
+`Framer Motion` · `GSAP`
+
+### Full Stack (em evolução)
+
+`Node.js`
+
+### Automação & IA
+
+`n8n` · `Integrações com APIs de IA`
 
 ---
 
-## 🎯 Objetivo Profissional
+## 💼 Projetos em destaque
 
-Atuar como **Desenvolvedor Frontend Júnior ou Estagiário**, contribuindo na criação de interfaces intuitivas, funcionais e bem estruturadas, enquanto continuo evoluindo tecnicamente na área de desenvolvimento web.
+### 🌌 Aura
+
+Landing page premium desenvolvida com foco em experiência, identidade visual e animações fluidas. O projeto explora efeitos modernos, transições suaves, design responsivo e componentes reutilizáveis para oferecer uma navegação envolvente.
+
+🌌 Aura: https://gsaraivas.github.io/Studio-Aura/
+
+**Tecnologias**
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
 
 ---
 
-🔗 **LinkedIn:** [Gabriel Saraiva](https://www.linkedin.com/in/gabriel-saraiva-da-silva-596814218)
+### 🍄 Mario
+
+Landing page inspirada no universo Mario, criada para demonstrar domínio de animações, composição visual e desenvolvimento responsivo. O projeto utiliza uma interface dinâmica com foco em performance e experiência do usuário.
+
+🍄 Mario: https://gsaraivas.github.io/Super-Mario-Galaxy/
+
+**Tecnologias**
+`Next.js` · `TypeScript` · `Tailwind CSS`
 
 ---
 
-⭐ Se você gostou do meu portfólio, deixe uma estrela e acompanhe minha evolução como desenvolvedor Frontend!
+### 🎂 Cakes'MA Confeitaria
+
+Site institucional para uma confeitaria artesanal desenvolvido com foco em identidade visual e experiência do usuário.
+
+Durante o desenvolvimento foram identificados e corrigidos diversos problemas estruturais, incluindo galeria duplicada, lightbox, acessibilidade e organização do código. O projeto também recebeu uma refatoração completa para uma arquitetura modular.
+
+🎂 Cakes'MA: https://gsaraivas.github.io/Cakes-MA-Confeitaria/
+
+**Tecnologias**
+`Next.js 15` · `Tailwind CSS`
+
+---
+
+### ✅ Todo List — Field Notebook
+
+Aplicação de gerenciamento de tarefas desenvolvida em JavaScript puro, inspirada em um caderno de campo.
+
+O projeto conta com identidade visual personalizada, persistência de dados com Local Storage, pesquisa, filtros, edição de tarefas, acessibilidade e animações que tornam a experiência mais agradável.
+
+✅ Todo List: https://gsaraivas.github.io/Todo-List/
+
+**Tecnologias**
+`JavaScript` · `HTML5` · `CSS3`
+
+---
+
+## 🎨 Minha abordagem
+
+Acredito que uma boa interface precisa equilibrar estética, usabilidade e performance.
+
+Em cada projeto procuro entregar:
+
+* Design moderno e consistente
+* Interfaces responsivas com abordagem mobile-first
+* Componentes reutilizáveis e escaláveis
+* Microinterações que agregam valor à experiência
+* Performance otimizada e boas práticas de Core Web Vitals
+* Acessibilidade seguindo recomendações da WCAG
+
+Minhas principais referências de design e experiência de usuário incluem **Apple**, **Stripe**, **Airbnb** e **Linear**.
+
+---
+
+## 🎯 Objetivo
+
+Busco oportunidades como **Desenvolvedor Frontend Júnior**, contribuindo para a construção de produtos digitais modernos enquanto evoluo para uma atuação Full Stack com **Node.js**, **NestJS**, **PostgreSQL** e **Prisma**.
+
+---
+
+## 📫 Contato
+
+💼 **LinkedIn:** https://linkedin.com/in/gabrielsaraivadev
+
+🌐 **Portfólio:** https://gsaraivas.github.io/portfolio/
+
+⭐ Se gostou do meu trabalho, confira os projetos fixados no meu perfil.
