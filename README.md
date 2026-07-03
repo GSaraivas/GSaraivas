@@ -30,55 +30,6 @@ Minha trajetória começou na área de logística e manutenção de equipamentos
 
 ---
 
-## 💼 Projetos em destaque
-
-### 🌌 Aura
-
-Landing page premium desenvolvida com foco em experiência, identidade visual e animações fluidas. O projeto explora efeitos modernos, transições suaves, design responsivo e componentes reutilizáveis para oferecer uma navegação envolvente.
-
-🌌 Aura: https://gsaraivas.github.io/Studio-Aura/
-
-**Tecnologias**
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
-
----
-
-### 🍄 Mario
-
-Landing page inspirada no universo Mario, criada para demonstrar domínio de animações, composição visual e desenvolvimento responsivo. O projeto utiliza uma interface dinâmica com foco em performance e experiência do usuário.
-
-🍄 Mario: https://gsaraivas.github.io/Super-Mario-Galaxy/
-
-**Tecnologias**
-`Next.js` · `TypeScript` · `Tailwind CSS`
-
----
-
-### 🎂 Cakes'MA Confeitaria
-
-Site institucional para uma confeitaria artesanal desenvolvido com foco em identidade visual e experiência do usuário.
-
-Durante o desenvolvimento foram identificados e corrigidos diversos problemas estruturais, incluindo galeria duplicada, lightbox, acessibilidade e organização do código. O projeto também recebeu uma refatoração completa para uma arquitetura modular.
-
-🎂 Cakes'MA: https://gsaraivas.github.io/Cakes-MA-Confeitaria/
-
-**Tecnologias**
-`Next.js 15` · `Tailwind CSS`
-
----
-
-### ✅ Todo List — Field Notebook
-
-Aplicação de gerenciamento de tarefas desenvolvida em JavaScript puro, inspirada em um caderno de campo.
-
-O projeto conta com identidade visual personalizada, persistência de dados com Local Storage, pesquisa, filtros, edição de tarefas, acessibilidade e animações que tornam a experiência mais agradável.
-
-✅ Todo List: https://gsaraivas.github.io/Todo-List/
-
-**Tecnologias**
-`JavaScript` · `HTML5` · `CSS3`
-
----
 
 ## 🎨 Minha abordagem
 
