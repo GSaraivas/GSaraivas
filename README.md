@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Gabriel Saraiva
 
-**`Desenvolvedor Frontend em Formação`**
+**`Desenvolvedor Front-end`**
 
 Olá! Me chamo **Gabriel Saraiva**, tenho **22 anos** e estou em **transição de carreira para a área de Tecnologia da Informação**, com foco em **Desenvolvimento Frontend**.
 
